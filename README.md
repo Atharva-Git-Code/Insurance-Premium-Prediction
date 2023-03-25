@@ -32,6 +32,8 @@ The following approach explains the project lifecycle :
 Checkout the webapp by clicking the link below.
 
 Link : https://atharva-git-code-insurance-premium-prediction-app-gol7nq.streamlit.app/
+Link : http://rocky-savannah-26447.herokuapp.com
+
 ## High Level Design :
 
 URL: https://docs.google.com/document/d/1czzpeU5Cev99vwXIrdmDIbyNmYvQxmIxJSNU-aLGD7s/edit?usp=share_link
