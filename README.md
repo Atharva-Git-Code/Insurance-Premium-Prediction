@@ -28,7 +28,7 @@ The following approach explains the project lifecycle :
 6) Tuning : Performed Hyperparameter tuning using RandomizedSearchCV and GridSearchCV to get the best parameters.
 7) Webpage : A web application is created for the user to easily enter the necessary inputs and get the predictions.
 8) Deployment : The project is deployed on Heroku Platform.
-## Web Deploement
+## Web Deployement
 Checkout the webapp by clicking the link below.
 
 Link : https://atharva-git-code-insurance-premium-prediction-app-gol7nq.streamlit.app/
